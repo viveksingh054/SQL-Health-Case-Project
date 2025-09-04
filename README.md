@@ -20,7 +20,7 @@
   - Start Practicing Queries
   - Determine how to Present Project 
 
-* **Week 5 (Mar 21 - Mar 28)**
+* **Week 5 **
   - Create Presentation
   - Finalize Database Creation/Population
   - Keep Practicing Queries 
